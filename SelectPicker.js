@@ -68,3 +68,4 @@ const SelectPicker = ({
       </select>
     );
   };
+  export default SelectPicker;
